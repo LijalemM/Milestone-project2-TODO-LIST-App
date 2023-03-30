@@ -72,7 +72,7 @@ const updateTask = (id) => {
   return (
     <div className="container App">
       <br/> <br/>
-      <h2>Milestone project 2 To Do List App </h2>
+      <h2>Milestone Project_Two ToDo List App </h2>
       <br/><br/>
 
       {/*form to update task*/} 
